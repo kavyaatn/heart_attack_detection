@@ -6,7 +6,7 @@ __pycache__/
 env/
 
 # If not committing model
-models/
+
 
 # VSCode/IDE files
 .vscode/
